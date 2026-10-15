@@ -1,0 +1,6 @@
+C:\Users\Andrii\source\repos\КПЗ ПР 2\FarmLibrary\bin\Debug\FarmLibrary.dll
+C:\Users\Andrii\source\repos\КПЗ ПР 2\FarmLibrary\bin\Debug\FarmLibrary.pdb
+C:\Users\Andrii\source\repos\КПЗ ПР 2\FarmLibrary\obj\Debug\FarmLibrary.csproj.AssemblyReference.cache
+C:\Users\Andrii\source\repos\КПЗ ПР 2\FarmLibrary\obj\Debug\FarmLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Andrii\source\repos\КПЗ ПР 2\FarmLibrary\obj\Debug\FarmLibrary.dll
+C:\Users\Andrii\source\repos\КПЗ ПР 2\FarmLibrary\obj\Debug\FarmLibrary.pdb
